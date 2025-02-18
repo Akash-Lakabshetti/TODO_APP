@@ -38,7 +38,7 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1>To-Do List</h1>
+      <h1>To_Do List</h1>
       <div className="input-container">
         <input
           type="text"
